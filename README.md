@@ -1,6 +1,6 @@
-# Vault Pro - DeFi Dashboard Design
+# Vault Pro - Web3 Wallet Dashboard Design
 
-Vault Pro is a premium DeFi portfolio dashboard featuring a sleek dark-mode interface, real-time asset tracking, performance visualizations, and secure wallet management.
+Vault Pro is a premium Web3 Wallet dashboard featuring a sleek dark-mode interface, real-time asset tracking, performance visualizations, and secure wallet management.
 
 ## Features
 - **Total Portfolio Balance**: Real-time tracking of your digital assets.
